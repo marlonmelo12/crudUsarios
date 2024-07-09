@@ -10,4 +10,4 @@ Encontra-se o código do front-end do projeto. Esta aplicação React atua como 
 Encontra-se o codigo do back-end do projeto. Esta aplicaçao C# fornece os endpoints que serão utilizados pela aplicação e utiliza do banco de dados in memory do C# para guardar os dados.
 ### Aqui está o vídeo de demonstração da funcionalidade.
 
- -> https://drive.google.com/file/d/1r6akNvIWg2JIso8Y_aws_USESQMlnW6U/view?usp=sharing
+ -> https://drive.google.com/file/d/1SEoQQW1gy6oDxXAiximIxmxPclOOQfkL/view?usp=sharing
